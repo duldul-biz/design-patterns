@@ -1,0 +1,29 @@
+*.class
+*.log
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# ide files #
+.classpath
+.project
+.mymetadata
+/.gradle/
+/.idea/
+/captures/
+.DS_Store
+.idea/
+HELP.md
+.mvn/
+mvn*
+# setting folders #
+.settings/
+.svn/
+.bin/
+.git/
+target/
+lib/
+src/main/resources/static
