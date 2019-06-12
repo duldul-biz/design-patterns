@@ -1,4 +1,4 @@
 /**
- * 享元模式 
+ * 享元模式
  */
 package com.cyd.project.design.patterns.flyweight;

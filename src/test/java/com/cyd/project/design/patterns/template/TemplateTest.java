@@ -14,9 +14,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 public class TemplateTest {
     @Test
-    public void test(){
-        GetUp getUp = new  RichManGetUp();
-        GetUp getUp2 = new  PoorManGetUp();
+    public void test() {
+        GetUp getUp = new RichManGetUp();
+        GetUp getUp2 = new PoorManGetUp();
         getUp.getUp();
         getUp2.getUp();
     }
